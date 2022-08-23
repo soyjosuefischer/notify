@@ -9,22 +9,22 @@
   ![GitHub contributors](https://img.shields.io/github/contributors/josuefischeroficial/notify)
   ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/notify)
 
-  <h2 align="center">Notify, organize your thoughts and ideas, plan a big event, simplify planning important moments in your life with the Notify app. Start taking notes on your phone with Notify. Simple, colorful and fast. - A proyect by: Josue Fischer</h2>
+  <h2 align="center">Notify, A cross-platform notes app. - Proyect by: Josue Fischer</h2>
 
 </div>
 
 # <img src="assets\icon\icon.png" width="30" height="30" alt="Logo"> Notify
 
-A (work-in-progress) cross-platform notes app. Please note that this app is still in early stages and not ready to trust with your notes yet.
+Notify, organize your thoughts and ideas, plan a big event, simplify planning important moments in your life with the Notify app. Start taking notes on your phone with Notify. Simple, colorful and fast.
 
 | **Platform:** | Android |  iOS |
 | ------------- | ------- | ---- |
 | **Support:**  |    ✓    |  ✓  |
 
-## Features
+## Main features
 
 - Create, update and delete notes.
-- Search notes by title.
+- Search your notes by title.
 - Supported languajes: en, pl.
 
 ## Packages used
@@ -36,13 +36,14 @@ A (work-in-progress) cross-platform notes app. Please note that this app is stil
 - json_annotation
 - sqflite
 - uuid
+
+## Run Locally
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
 
 To run **Notify** locally, install the fllowing tools and run those commands on your git bash and terminal:
 
