@@ -1,0 +1,8 @@
+{
+    "notesAppBarTitle": "Notes",
+    "searchNotesHintText": "Search...",
+    "saveButtonText": "Save",
+    "emptyTitleErrorMessage": "Title cannot be empty",
+    "noteTitleHintText": "Title",
+    "noteContentHintText": "Type something..."
+}

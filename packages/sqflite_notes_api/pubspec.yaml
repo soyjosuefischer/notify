@@ -1,0 +1,20 @@
+name: sqflite_notes_api
+description: A Flutter implementation of the NotesApi which uses sqflite.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  notes_api:
+    path: ../notes_api
+  sqflite: ^2.0.3+1
+
+dev_dependencies:
+  coverage: ^1.5.0
+  lints: ^2.0.0
+  mocktail: ^0.3.0
+  test: ^1.21.4

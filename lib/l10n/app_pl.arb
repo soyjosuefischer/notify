@@ -1,0 +1,8 @@
+{
+    "notesAppBarTitle": "Notatki",
+    "searchNotesHintText": "Szukaj...",
+    "saveButtonText": "Zapisz",
+    "emptyTitleErrorMessage": "Tytuł nie może być pusty",
+    "noteTitleHintText": "Tytuł",
+    "noteContentHintText": "Napisz coś..."
+}
