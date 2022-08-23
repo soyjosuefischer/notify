@@ -9,7 +9,7 @@
   ![GitHub contributors](https://img.shields.io/github/contributors/josuefischeroficial/notify)
   ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/notify)
 
-  <h2 align="center">Notify, A cross-platform notes app. - Proyect by: Josue Fischer</h2>
+  <h2 align="center">Notify, a cross-platform notes app. - Proyect by: Josue Fischer</h2>
 
 </div>
 
@@ -23,9 +23,9 @@ Notify, organize your thoughts and ideas, plan a big event, simplify planning im
 
 ## Main features
 
-- Create, update and delete notes.
-- Search your notes by title.
-- Supported languajes: en, pl.
+- Create, update and delete notes 📝
+- Search your notes by title 🔍
+- Supported languajes: en, pl 🔠
 
 ## Packages used
 
@@ -76,3 +76,12 @@ $ flutter run
 ### License
 
 This project contains an **GPL-3.0 license.**
+
+                    GNU GENERAL PUBLIC LICENSE
+                       Notify, 23 August 2022
+
+             Notify  Copyright (C) 2022  Josue Fischer
+             
+     Everyone is permitted to distribute the Notify application,
+     but change, copy or modify the Notify source code it is not allowed.
+     you can´t distribute a Notify copy or a Notify modifycated application.
