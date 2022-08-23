@@ -5,7 +5,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:mockingjay/mockingjay.dart';
-import 'package:notes_app/note/note.dart';
+import 'package:notify/note/note.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 extension PumpView on WidgetTester {

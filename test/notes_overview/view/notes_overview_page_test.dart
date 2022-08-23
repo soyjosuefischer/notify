@@ -7,7 +7,7 @@ import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/date_symbol_data_local.dart';
 import 'package:mockingjay/mockingjay.dart';
-import 'package:notes_app/notes_overview/notes_overview.dart';
+import 'package:notify/notes_overview/notes_overview.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 extension PumpView on WidgetTester {

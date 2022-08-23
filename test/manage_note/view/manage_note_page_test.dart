@@ -5,7 +5,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations_en.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockingjay/mockingjay.dart';
-import 'package:notes_app/manage_note/manage_note.dart';
+import 'package:notify/manage_note/manage_note.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 extension PumpView on WidgetTester {

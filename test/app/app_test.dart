@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:notes_app/app/app.dart';
-import 'package:notes_app/notes_overview/notes_overview.dart';
+import 'package:notify/app/app.dart';
+import 'package:notify/notes_overview/notes_overview.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 class MockNotesRepository extends Mock implements NotesRepository {}

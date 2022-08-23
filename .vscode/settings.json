@@ -3,7 +3,7 @@
     ".idea": true,
     ".metadata": true,
     ".packages": true,
-    "notes_app.iml": true,
+    "notify.iml": true,
     "pubspec.lock": true,
     ".flutter-plugins": true,
     ".flutter-plugins-dependencies": true,
@@ -13,5 +13,6 @@
   "editor.rulers": [
     80
   ],
-  "dart.lineLength": 80
+  "dart.lineLength": 80,
+  "java.configuration.updateBuildConfiguration": "interactive"
 }

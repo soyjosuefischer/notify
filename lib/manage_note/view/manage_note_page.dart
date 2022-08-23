@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:notes_app/common/common.dart';
-import 'package:notes_app/manage_note/manage_note.dart';
+import 'package:notify/common/common.dart';
+import 'package:notify/manage_note/manage_note.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 class ManageNotePage extends StatelessWidget {

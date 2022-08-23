@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:notes_app/manage_note/cubit/manage_note_cubit.dart';
+import 'package:notify/manage_note/cubit/manage_note_cubit.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 void main() {

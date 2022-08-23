@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:notes_app/note/note.dart';
+import 'package:notify/note/note.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 void main() {

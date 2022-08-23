@@ -1,4 +1,4 @@
-package com.gzaber.notes_app
+package com.notify
 
 import io.flutter.embedding.android.FlutterActivity
 

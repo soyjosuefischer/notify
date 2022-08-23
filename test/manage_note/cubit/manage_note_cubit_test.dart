@@ -1,7 +1,7 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-import 'package:notes_app/manage_note/cubit/manage_note_cubit.dart';
+import 'package:notify/manage_note/cubit/manage_note_cubit.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 class MockNotesRepository extends Mock implements NotesRepository {}

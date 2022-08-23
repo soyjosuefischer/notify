@@ -5,10 +5,10 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:intl/intl.dart';
-import 'package:notes_app/common/common.dart';
-import 'package:notes_app/manage_note/manage_note.dart';
-import 'package:notes_app/note/note.dart';
-import 'package:notes_app/notes_overview/cubit/notes_overview_cubit.dart';
+import 'package:notify/common/common.dart';
+import 'package:notify/manage_note/manage_note.dart';
+import 'package:notify/note/note.dart';
+import 'package:notify/notes_overview/cubit/notes_overview_cubit.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 class NotesOverviewPage extends StatelessWidget {

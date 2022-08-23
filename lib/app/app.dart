@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:notes_app/common/common.dart';
-import 'package:notes_app/notes_overview/notes_overview.dart';
+import 'package:notify/common/common.dart';
+import 'package:notify/notes_overview/notes_overview.dart';
 import 'package:notes_repository/notes_repository.dart';
 
 class App extends StatelessWidget {

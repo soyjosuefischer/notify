@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/common/common.dart';
+import 'package:notify/common/common.dart';
 
 class CustomElevatedButton extends StatelessWidget {
   final Widget widget;
