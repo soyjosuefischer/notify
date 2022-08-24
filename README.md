@@ -12,6 +12,7 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/notify)
   ![Android](https://img.shields.io/badge/Android-Support-green?logo=android)
   ![iOS](https://img.shields.io/badge/iOS-Support-white?logo=apple)
+  ![Notify](https://img.shields.io/badge/Notify-v1.0.0-darkblue?)
 
   <h2 align="center">Notify, a cross-platform notes app. - Proyect by: Josue Fischer</h2>
 
@@ -27,10 +28,10 @@ Notify, organize your thoughts and ideas, plan a big event, simplify planning im
 
 ## Main features
 
-- Create, update and delete notes 📝
-- Colorful notes that change their color 🌈
-- Search your notes by title 🔍
-- Supported languajes: en, pl 🔠
+- [x] Create, update and delete notes 📝
+- [x] Colorful notes that change their color 🌈
+- [x] Search your notes by title 🔍
+- [x] Supported languajes: en, pl 🔠
 
 ## Packages used
 
@@ -42,6 +43,12 @@ Notify, organize your thoughts and ideas, plan a big event, simplify planning im
 - sqflite
 - uuid
 
+## Download the last version of Notify for Android
+
+![Android](https://img.shields.io/badge/Android-Support-green?logo=android) ![Notify](https://img.shields.io/badge/Notify-v1.0.0-darkblue?)
+
+- [x] You can download the Notify official APK by clicking [here](https://github.com/josuefischeroficial/notify/releases "Download the official Notify APK")
+
 ## Run Locally
 
 ### Prerequisites
@@ -50,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-To run **Notify** locally, install the fllowing tools and run those commands on your git bash and terminal:
+### To run **Notify** locally, install the fllowing tools and run those commands on your git bash and terminal:
 
 ### 1. Install flutter
 https://docs.flutter.dev/get-started/install
