@@ -85,4 +85,4 @@ This project contains an **GPL-3.0 license.**
      Everyone is permitted to distribute the Notify application,
      but change, copy or modify the Notify source code it is not allowed.
      you can´t distribute a Notify copy or a Notify modifycated application.
-     you can only do that for personal testing and use, read more about the GPL-3.0 license.
+     you can only do that for personal testing and use, but not for commercial use.
