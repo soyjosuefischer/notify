@@ -1,6 +1,8 @@
 <div align="center">
 
-  ![JavaScript](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+  ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+  ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+  ![SQLite](https://img.shields.io/badge/SQLite-Plugin-blue?logo=sqlite)
   ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/notify)
   ![GitHub](https://img.shields.io/github/license/josuefischeroficial/notify)
   ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/notify?style=social)
@@ -8,6 +10,8 @@
   ![GitHub watchers](https://img.shields.io/github/watchers/josuefischeroficial/notify?style=social)
   ![GitHub contributors](https://img.shields.io/github/contributors/josuefischeroficial/notify)
   ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/notify)
+  ![Android](https://img.shields.io/badge/Android-Support-green?logo=android)
+  ![iOS](https://img.shields.io/badge/iOS-Support-white?logo=apple)
 
   <h2 align="center">Notify, a cross-platform notes app. - Proyect by: Josue Fischer</h2>
 
@@ -24,6 +28,7 @@ Notify, organize your thoughts and ideas, plan a big event, simplify planning im
 ## Main features
 
 - Create, update and delete notes 📝
+- Colorful notes that change their color 🌈
 - Search your notes by title 🔍
 - Supported languajes: en, pl 🔠
 
@@ -82,7 +87,8 @@ This project contains an **GPL-3.0 license.**
 
              Notify  Copyright (C) 2022  Josue Fischer
              
-     Everyone is permitted to distribute the Notify application,
-     but change, copy or modify the Notify source code it is not allowed.
-     you can´t distribute a Notify copy or a Notify modifycated application.
-     you can only do that for personal testing and use, but not for commercial use.
+     The Notify app has no warranty for any platform,        
+     everyone is permitted to distribute the Notify application,
+     but change, copy or modify the Notify source code it is not allowed,
+     you can´t distribute a Notify copy or a Notify modifycated application,
+     you can only do that for personal testing use, but not for commercial use.
