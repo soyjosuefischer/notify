@@ -3,13 +3,13 @@
   ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
   ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
   ![SQLite](https://img.shields.io/badge/SQLite-Plugin-blue?logo=sqlite)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/notify)
-  ![GitHub](https://img.shields.io/github/license/josuefischeroficial/notify)
-  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/notify?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/notify?style=social)
-  ![GitHub watchers](https://img.shields.io/github/watchers/josuefischeroficial/notify?style=social)
-  ![GitHub contributors](https://img.shields.io/github/contributors/josuefischeroficial/notify)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/josuefischeroficial/notify)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/iamjosuefischer/notify)
+  ![GitHub](https://img.shields.io/github/license/iamjosuefischer/notify)
+  ![GitHub stars](https://img.shields.io/github/stars/iamjosuefischer/notify?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/iamjosuefischer/notify?style=social)
+  ![GitHub watchers](https://img.shields.io/github/watchers/iamjosuefischer/notify?style=social)
+  ![GitHub contributors](https://img.shields.io/github/contributors/iamjosuefischer/notify)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/iamjosuefischer/notify)
   ![Android](https://img.shields.io/badge/Android-Support-green?logo=android)
   ![iOS](https://img.shields.io/badge/iOS-Support-white?logo=apple)
   ![Notify](https://img.shields.io/badge/Notify-v1.0.0-darkblue?)
@@ -59,7 +59,7 @@ Organize your thoughts and ideas, plan a big event, simplify planning important 
 
 ![Android](https://img.shields.io/badge/Android-APK-green?logo=android) ![Notify](https://img.shields.io/badge/Notify-v1.0.0-darkblue?)
 
-- [x] You can download the Notify official APK by clicking [here](https://github.com/josuefischeroficial/notify/releases "Download the official Notify APK")
+- [x] You can download the Notify official APK by clicking [here](https://github.com/iamjosuefischer/notify/releases "Download the official Notify APK")
 
 ## Run Locally
 
@@ -78,13 +78,13 @@ https://docs.flutter.dev/get-started/install
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/josuefischeroficial/notify.git
+sudo git clone https://github.com/iamjosuefischer/notify.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/josuefischeroficial/notify.git
+git clone https://github.com/iamjosuefischer/notify.git
 ```
 
 ### 3. Get dependencies
@@ -101,14 +101,14 @@ $ flutter run
 
 This project contains an **GPL-3.0 license.**
 
-![GitHub](https://img.shields.io/github/license/josuefischeroficial/notify)
+![GitHub](https://img.shields.io/github/license/iamjosuefischer/notify)
 
                     GNU GENERAL PUBLIC LICENSE
                        Notify, 23 August 2022
 
              Notify  Copyright (C) 2022  Josue Fischer
              
-     The Notify app has no warranty for any platform,        
+     The Notify App has no warranty for any platform,        
      everyone is permitted to distribute the Notify application,
      but change, copy or modify the Notify source code it is not allowed,
      you can´t distribute a Notify copy or a Notify modifycated application,
